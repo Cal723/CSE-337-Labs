@@ -1,2 +1,2 @@
 
-This is the lab1-bandit
+This is my cse337 Lab Repo
